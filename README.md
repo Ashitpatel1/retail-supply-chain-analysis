@@ -106,8 +106,8 @@ Use discounts strategically for clearance or event-based sales while closely mon
 
 14. Conclusion
 
-This project showcases how SQL can be used to analyze complex retail supply chain data and transform raw data into actionable business insights and solutions.
-It reflects the real responsibilities of a Data Analyst working with cross-functional business teams.
-
+This project follows a structured, end-to-end SQL analysis approach, starting from data exploration and validation, moving through exploratory data analysis (EDA), and concluding with business-driven analytical queries.
+By systematically analyzing sales performance, customer behavior, inventory health, and supplier efficiency, the project demonstrates how raw retail data can be transformed into meaningful insights and actionable business recommendations using SQL alone.
+The analysis mirrors real-world data analyst workflows, where insights are not only identified but also translated into practical solutions that support decision-making across sales, operations, and supply chain teams.
 
 # retail-supply-chain-analysis
